@@ -1,0 +1,9 @@
+{
+  "name": "Curiata CargoOps",
+  "short_name": "CargoOps",
+  "start_url": "./index.html#/login",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0057B7",
+  "icons": []
+}

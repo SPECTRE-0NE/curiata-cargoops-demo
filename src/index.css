@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #0057B7;
+  --accent-light: #2B8CED;
+}
+
+body { @apply font-inter text-gray-900; }
